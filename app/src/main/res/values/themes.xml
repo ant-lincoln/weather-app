@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="Theme.Weather" parent="android:Theme.Material.Light.NoActionBar" />
+        <item name="colorPrimary" type="color">@color/blue_100</item>
+        <item name="colorPrimaryVariant" type="color">@color/white</item>
+        <item name="colorOnPrimary" type="color">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary" type="color">@color/blue_100</item>
+        <item name="colorSecondaryVariant" type="color">@color/blue_100</item>
+        <item name="colorOnSecondary" type="color">@color/blue_20</item>
+
+</resources>
